@@ -45,6 +45,7 @@
 
 .btn {
     font-weight: 800;
+    color: var(--Black);
     letter-spacing: -1px;
     background-color: var(--Yellow);
     padding: 5px 13px;
@@ -55,11 +56,13 @@
 .p-public {
     font-size: 14px;
     font-weight: 600;
+    color: var(--Grey);
     margin-top: 15px;
 }
 
 .h1-info {
     font-weight: 800;
+    color: var(--Black);
     margin-top: 17px;
     cursor: url(../assets/images/cursor-ponter.svg), auto;
     transition: .3s ease-in-out;
@@ -91,6 +94,7 @@
 .p-name {
     font-size: 14px;
     font-weight: 800;
+    color: var(--Black);
 }
 
 .attribution {
