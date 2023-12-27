@@ -1,0 +1,39 @@
+@media (max-width: 576px) {
+    .main {
+        width: 375px;
+        justify-content: flex-start;
+        padding-top: 155px;
+    }
+
+    .card {
+        width: 327px;
+        height: 500px;
+    }
+
+    .img-logo {
+        width: 279px;
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .btn {
+        font-size: 11px;
+        letter-spacing: -.6px;
+        padding: 5px 12px;
+        margin-top: 24px;
+    }
+    
+    .p-public {
+        font-size: 12px;
+    }
+
+    .h1-info {
+        font-size: 20px;
+    }
+
+    .p-description {
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 16px;
+    }
+}
